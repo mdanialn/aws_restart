@@ -1,3 +1,4 @@
+![block diagram](https://github.com/user-attachments/assets/db9226a9-739c-4afd-a3f5-1f6483b2cf8f)
 Asset Tracking System with Esp32 and AWS Iot Cloud Infrastructure 🛠️ for dedicated asset monitoring by location tracking with Iot Hardware (Esp32, location Module) and Aws Iot Core Service.
  Transformations with S3 for storage, Lambda for automation, DynamoDB for robust storage of location data, and API Gateway for posting live location data to Mobile and Web Applications hosted on Aws Cloud within a fully automated pipeline.
 
